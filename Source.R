@@ -1,0 +1,21 @@
+rm(list = ls())
+source("Libraries.R")
+#source("FX Strategy Termpaper/1. Data Cleaning/Cleaning/Data Cleaning.R")
+source("FX Strategy Termpaper/1. Data Cleaning/New Data Cleaning.R")
+
+#source("FX Strategy Termpaper/2. Sub-Strategy/Carry/Carry.R")
+source("FX Strategy Termpaper/2. Sub-Strategy/Momentum/Momentum.R")
+#source("FX Strategy Termpaper/2. Sub-Strategy/Momentum/Momentum.R")
+#source("FX Strategy Termpaper/2. Sub-Strategy/Value/Value.R")
+
+#source("FX Strategy Termpaper/3. Market Timing Signals/Equal Weights (BM)/EW2.R")
+#source("FX Strategy Termpaper/3. Market Timing Signals/Equal Weights (BM)/EW3.R")
+#source("FX Strategy Termpaper/3. Market Timing Signals/MDD/MDD 2.R")
+#source("FX Strategy Termpaper/3. Market Timing Signals/MDD/MDD 3.R")
+#source("FX Strategy Termpaper/3. Market Timing Signals/Momentum/Momentum 2.R")
+#source("FX Strategy Termpaper/3. Market Timing Signals/Momentum/Momentum 3.R")
+#source("FX Strategy Termpaper/3. Market Timing Signals/Momentum + MDD/Momentum + MDD 2.R")
+#source("FX Strategy Termpaper/3. Market Timing Signals/Momentum + MDD/Momentum + MDD 3.R")
+#source("FX Strategy Termpaper/3. Market Timing Signals/Volatility/Volatility 2.R")
+#source("FX Strategy Termpaper/3. Market Timing Signals/Volatility/Volatility 3.R")
+
